@@ -55,3 +55,19 @@ header, footer {
 	padding-right: 50px;
 }
 
+.rightalign{
+	text-align: right;
+}
+
+.imgbox{
+	width: 50px;
+}
+.img{
+	padding:15px;
+	height:10%;
+	
+
+}
+.clear{
+	clear:all;
+}
