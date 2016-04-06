@@ -30,14 +30,14 @@ header, footer {
 	padding-top: 25px;
 }
 
-p{
+.p_small{
 	line-height: 10px
 	font-size:10px;
-	text-indent: 50px;
+	text-indent: 200px;
 }
 
 
-.p{
+.p_big{
 	line-height: 49px;
 	padding-right: 100px;
 	padding-left:100px;
