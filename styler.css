@@ -19,20 +19,36 @@ h3{
 }
 
 nav{
-	color:black;
 	background:orange;
 	opacity: 0.3;
-	height: 150px;
+	height: 50px;
 	padding: 30px;
+	text-align: center;
 	
 }
 
-header, footer {
+footer {
 	background:orange;
 	height: 50px;
 	color:red;
 	text-indent: 60px;
 	padding-top: 25px;
+}
+
+ul{
+	list-style: none;
+}
+
+li{
+	display:inline;
+	padding:50px;
+}
+
+a{
+	font-size: 25px;
+	color:black;
+	font-family: Georgia;
+	text-decoration:none;
 }
 
 .p_small{
@@ -70,6 +86,11 @@ header, footer {
 	float:right;
 }
 
+.orange{
+	background: orange;
+	height: 150px;
+	text-align: center;
+}
 #image{
 	width:30%;
 	padding-left: 200px;
