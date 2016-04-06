@@ -1,21 +1,49 @@
 
 h1{
 	line-height: 39px;
+	text-align: center;
 }
 
+h2{
+	line-height: 25px;
+	text-indent: 100px;
+}
+
+h3{
+	line-height: 21px;
+	text-indent: 230px;
+
+}
 
 nav{
-	margin: 0 auto;
-	position: fixed;
-	text-align: center;
+	height: 100px;
+	color:black;
+	text-indent: 50px;
+	
 }
 
 header, footer {
 	background:orange;
 	height: 50px;
-	color:white;
+	color:red;
 	text-align: center;
 	padding-top: 25px;
+}
 
+
+p{
+	line-height: 49px;
+	padding-right: 100px;
+	padding-left:100px;
+	margin-top: 50px;
+	font-size: 30px;
+
+
+}
+
+.maincontainer{
+	background: pink;
+	height: 500px;
+	padding-right: 50px;
 }
 
