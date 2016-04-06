@@ -1,9 +1,21 @@
 
+h1{
+	line-height: 39px;
+}
+
+
 nav{
-	background: red;
+	margin: 0 auto;
+	position: fixed;
+	text-align: center;
 }
 
 header, footer {
-	background:black;
+	background:orange;
+	height: 50px;
 	color:white;
+	text-align: center;
+	padding-top: 25px;
+
 }
+
