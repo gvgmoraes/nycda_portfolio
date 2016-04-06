@@ -61,11 +61,12 @@ header, footer {
 
 .imgbox{
 	width: 50px;
+
 }
 .img{
 	padding:15px;
 	height:10%;
-	
+	display:block;
 
 }
 .clear{
